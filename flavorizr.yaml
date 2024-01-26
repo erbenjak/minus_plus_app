@@ -1,0 +1,21 @@
+flavors:
+  plus:
+    app:
+      name: "Plus App"
+
+    android:
+      applicationId: "com.example.plus"
+    ios:
+      bundleId: "com.example.plus"
+    macos:
+      bundleId: "com.example.plus"
+  minus:
+    app:
+      name: "Minus App"
+
+    android:
+      applicationId: "com.example.minus"
+    ios:
+      bundleId: "com.example.minus"
+    macos:
+      bundleId: "com.example.minus"
